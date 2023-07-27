@@ -7,7 +7,6 @@ import github from "./github.png";
 import linkedin from "./LinkedIn_1.png"
 import menu from "./menu.svg";
 import close from "./close.svg";
-import ravi from "./ravi.jpg";
 import reviewApp from "./reviewApp.png";
 import manoffice from "./manoffice.gif"
 import officeplus from "./officeplus.gif"
@@ -56,7 +55,6 @@ export {
   linkedin,
   menu,
   close,
-  ravi,
   reviewApp,
   cv,
   css,

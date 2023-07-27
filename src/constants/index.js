@@ -4,7 +4,6 @@ import {
     creator,
     web,
     reviewApp,
-    ravi,
     reactjs,
     nodejs,
     gep,
