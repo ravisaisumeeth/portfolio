@@ -38,7 +38,7 @@ const Hero = () => {
 
           <p className={`${styles.heroSubText}
             mt-2 text-[30px] text-white-100 text_shadows`}>
-              <span className="text-[#2a2338] font-bold ">I </span> develop <span className="text-[#2a2338] font-bold"> Eye Seducing </span> Websites
+              <span className="text-[#2a2338] font-bold ">I </span> develop Websites
                <br className="sm:block " />
               with user friendly features.
             </p>

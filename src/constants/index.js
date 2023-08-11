@@ -253,7 +253,7 @@ import {
         },
       ],
       image: personal,
-      source_code_link: "http://localhost:5173/",
+      source_code_link: "https://vamsikrishnayarragunta.netlify.app/",
       minImg: github,
     }
   ];
