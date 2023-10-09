@@ -39,7 +39,7 @@ import python from "./tech/python.png"
 import socialBook from "./socialBook.png";
 import videoChat from "./videoChat.png";
 import gep from "./company/gep.png";
-import copart from "./company/copart.png";
+import copart from "../assets";
 import mnnit from "./company/mnnit.png";
 import cv from "./company/cv.png"
 import whatsAI from "./whatsAI.png";
@@ -74,6 +74,7 @@ export {
   detection,
   medX,
   gep,
+  copart,
   mnnit,
   socialBook,
   videoChat,
