@@ -7,6 +7,7 @@ import {
     reactjs,
     nodejs,
     gep,
+    copart,
     mnnit,
     socialBook,
     videoChat,
@@ -81,19 +82,35 @@ import {
   
   const experiences = [
     {
+      title: "DevOps Engineer Intern",
+      company_name: "Copart Inc.",
+      icon: copart,
+      iconBg: "#383E56",
+      date: "September 2023 - Present",
+      points: [
+       "Implementing Stack Storm auto remediation actions for Windows VM provisioning through Python and PowerShell scripting, measured through New Relic, reduced manual effort and deployment time by 30%"
+      ]
+    },
+    {
       title: "Software Engineer",
       company_name: "GEP Worldwide",
       icon: gep,
       iconBg: "#383E56",
       date: "July 2020 - August 2022",
       points: [
-        "Developed micro front-end architecture by implementing versatile and reusable Angular plugins for the contract's module. This resulted in a 40% reduction in the workload for other team members",
-        "Enhanced the contract creation page load time by 60% through code upgrades to .NET Core in a microservice-based environment. Implemented the repository pattern in C#, Angular, and Typescript",
-        "Improved data retrieval process by implementing .NET web APIs with Middleware. Additionally, migrated SQL data to Neo4j, resulting in a 50% reduction in API data retrieval time",
-        "Conducted unit testing of features using xUnit and Cypress.js frameworks to ensure high code quality and reliability",
-        "Optimized SQL database performance by fine-tuning stored procedures, triggers, and functions. Integrated a caching mechanism using Redis to improve performance for the live contract’s engine",
-        "Worked in an agile environment following SCRUM methodologies and utilizing JIRA for project management and issue tracking"
-      ],
+        "Implemented UI for contract lifecycle modules React plugin architecture, measured based on the project delivery times, resulted in 20% reduction of team workload.",
+        "Spearheaded the design and development of backend microservices-based contract creation platform using Java Spring Boot,measured through New Relic and Postman, resulted in a 30% improvement in the contract creation page load time and a 40% reduction in API data retrieval time by migrating SQL data to Neo4j"
+      ]
+    },
+    {
+      title: "Software Engineer Intern",
+      company_name: "GEP Worldwide",
+      icon: gep,
+      iconBg: "#383E56",
+      date: "December 2019 - May 2020",
+      points: [
+        "Specialized in Azure IAAS and PAAS automation deployments, Git repository management, branch integration, user support,and expertly executing CI/CD methodology with PowerShell scripting which reduced team workload by 25%"
+      ]
     },
     {
       title: "Club Member",
